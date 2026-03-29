@@ -144,6 +144,7 @@ Institution: VIT
 Academic Year: Winter Sem 2025–26
 
 ---
+https://colab.research.google.com/github/saumya25bai11388-sys/spam-email-classifier/blob/main/spam_email_classifier.ipynb
 
 ## 📄 License
 
